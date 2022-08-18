@@ -8,6 +8,7 @@ This project helps you classify different alphabets of hindi language (Devanagir
  ## Dataset- 
  DHCD (Devnagari Character Dataset)
  Images of size 32 X 32
+ https://www.kaggle.com/datasets/ashokpant/devanagari-character-dataset
  
  ## Architecture
  
